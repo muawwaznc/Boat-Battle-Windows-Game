@@ -1,0 +1,16 @@
+E:\UET\Semester 2\Game Project\Game with framwork\Boatbattle\bin\Debug\Boatbattle.exe.config
+E:\UET\Semester 2\Game Project\Game with framwork\Boatbattle\bin\Debug\Boatbattle.exe
+E:\UET\Semester 2\Game Project\Game with framwork\Boatbattle\bin\Debug\Boatbattle.pdb
+E:\UET\Semester 2\Game Project\Game with framwork\Boatbattle\bin\Debug\Framework.dll
+E:\UET\Semester 2\Game Project\Game with framwork\Boatbattle\bin\Debug\Framework.pdb
+E:\UET\Semester 2\Game Project\Game with framwork\Boatbattle\obj\Debug\Boatbattle.csproj.AssemblyReference.cache
+E:\UET\Semester 2\Game Project\Game with framwork\Boatbattle\obj\Debug\Boatbattle.Properties.Resources.resources
+E:\UET\Semester 2\Game Project\Game with framwork\Boatbattle\obj\Debug\Boatbattle.csproj.GenerateResource.cache
+E:\UET\Semester 2\Game Project\Game with framwork\Boatbattle\obj\Debug\Boatbattle.csproj.CoreCompileInputs.cache
+E:\UET\Semester 2\Game Project\Game with framwork\Boatbattle\obj\Debug\Boatbattle.csproj.CopyComplete
+E:\UET\Semester 2\Game Project\Game with framwork\Boatbattle\obj\Debug\Boatbattle.exe
+E:\UET\Semester 2\Game Project\Game with framwork\Boatbattle\obj\Debug\Boatbattle.pdb
+E:\UET\Semester 2\Game Project\Game with framwork\Boatbattle\obj\Debug\Boatbattle.GameOver_form.resources
+E:\UET\Semester 2\Game Project\Game with framwork\Boatbattle\obj\Debug\Boatbattle.Level1_forrm.resources
+E:\UET\Semester 2\Game Project\Game with framwork\Boatbattle\obj\Debug\Boatbattle.Level2_form.resources
+E:\UET\Semester 2\Game Project\Game with framwork\Boatbattle\obj\Debug\Boatbattle.MainMenu_form.resources
